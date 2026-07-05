@@ -28,12 +28,12 @@
           "links": [
             {
               "name": "Link 1",
-              "url": "https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001783263481-0-0-b9cc0c073f578a0cc46c99835c7c950c",
+              "url": "https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001783264735-0-0-1342e807a19b27beef698fcefe828944",
               "reffer": "https://soco.buzzscorelinez.com/ajax/chanel/type/5/link/channel1"
             },
             {
               "name": "Link 2",
-              "url": "https://live1.pro2cdnlive.com/live/channel1.m3u8?wsSecret=842b10f72ae35d2c823785509f476531&wsABSTime=1783306681",
+              "url": "https://live1.pro2cdnlive.com/live/channel1.m3u8?wsSecret=8933ec4f3cfa36608064b504fb605316&wsABSTime=1783307936",
               "reffer": "https://soco.buzzscorelinez.com/ajax/chanel/type/7/link/channel1"
             }
           ]
@@ -52,12 +52,12 @@
           "links": [
             {
               "name": "Link 1",
-              "url": "https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001783263481-0-0-b9cc0c073f578a0cc46c99835c7c950c",
+              "url": "https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001783264737-0-0-251dbfd4deefcbaf32dfaf048c79111e",
               "reffer": "https://soco.buzzscorelinez.com/ajax/chanel/type/5/link/channel1"
             },
             {
               "name": "Link 2",
-              "url": "https://live1.pro2cdnlive.com/live/channel1.m3u8?wsSecret=842b10f72ae35d2c823785509f476531&wsABSTime=1783306681",
+              "url": "https://live1.pro2cdnlive.com/live/channel1.m3u8?wsSecret=f1c33f0583cbe1ca0a69d6c7c0d01abf&wsABSTime=1783307937",
               "reffer": "https://soco.buzzscorelinez.com/ajax/chanel/type/7/link/channel1"
             }
           ]
@@ -67,27 +67,7 @@
     {
       "league_name": "KOR D1",
       "league_icon": "https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small",
-      "matches": [
-        {
-          "home_team": {
-            "name": "Sidama Bunna",
-            "logo": "https://imgts.sportpulseapiz.com/football/team/x7lm7phozxgm2wd/image/small"
-          },
-          "away_team": {
-            "name": "Ethio Electric FC",
-            "logo": "https://imgts.sportpulseapiz.com/football/team/y0or5jh4pppqwzv/image/small"
-          },
-          "month": "7/5/2026",
-          "time": "8:10:00 PM",
-          "links": [
-            {
-              "name": "Link 1",
-              "url": "https://live1.pro2cdnlive.com/live/channel36.m3u8?wsSecret=5640f939d71723173a474cce1b4e82a4&wsABSTime=1783306681",
-              "reffer": "https://soco.buzzscorelinez.com/ajax/chanel/type/7/link/channel36"
-            }
-          ]
-        }
-      ]
+      "matches": []
     },
     {
       "league_name": "CHA CSL",
