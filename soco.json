@@ -28,12 +28,12 @@
           "links": [
             {
               "name": "Link 1",
-              "url": "https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001783263352-0-0-09d939d915c1c4cf566abab1cea473d1",
+              "url": "https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001783263481-0-0-b9cc0c073f578a0cc46c99835c7c950c",
               "reffer": "https://soco.buzzscorelinez.com/ajax/chanel/type/5/link/channel1"
             },
             {
               "name": "Link 2",
-              "url": "https://live1.pro2cdnlive.com/live/channel1.m3u8?wsSecret=2edb1ec5070bed58f660ed23d5029fea&wsABSTime=1783306552",
+              "url": "https://live1.pro2cdnlive.com/live/channel1.m3u8?wsSecret=842b10f72ae35d2c823785509f476531&wsABSTime=1783306681",
               "reffer": "https://soco.buzzscorelinez.com/ajax/chanel/type/7/link/channel1"
             }
           ]
@@ -52,12 +52,12 @@
           "links": [
             {
               "name": "Link 1",
-              "url": "https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001783263352-0-0-09d939d915c1c4cf566abab1cea473d1",
+              "url": "https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001783263481-0-0-b9cc0c073f578a0cc46c99835c7c950c",
               "reffer": "https://soco.buzzscorelinez.com/ajax/chanel/type/5/link/channel1"
             },
             {
               "name": "Link 2",
-              "url": "https://live1.pro2cdnlive.com/live/channel1.m3u8?wsSecret=d1b21d00a7f8022c901d497f979a5b63&wsABSTime=1783306553",
+              "url": "https://live1.pro2cdnlive.com/live/channel1.m3u8?wsSecret=842b10f72ae35d2c823785509f476531&wsABSTime=1783306681",
               "reffer": "https://soco.buzzscorelinez.com/ajax/chanel/type/7/link/channel1"
             }
           ]
@@ -82,7 +82,7 @@
           "links": [
             {
               "name": "Link 1",
-              "url": "https://live1.pro2cdnlive.com/live/channel36.m3u8?wsSecret=627dacd3a5ef31389b56e3b81a64e4b6&wsABSTime=1783306552",
+              "url": "https://live1.pro2cdnlive.com/live/channel36.m3u8?wsSecret=5640f939d71723173a474cce1b4e82a4&wsABSTime=1783306681",
               "reffer": "https://soco.buzzscorelinez.com/ajax/chanel/type/7/link/channel36"
             }
           ]
