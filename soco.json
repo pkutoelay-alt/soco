@@ -1,0 +1,98 @@
+{
+  "leagues": [
+    {
+      "league_name": "UEFA CL",
+      "league_icon": "https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small",
+      "matches": []
+    },
+    {
+      "league_name": "UEFA ECL",
+      "league_icon": "https://imgts.sportpulseapiz.com/football/competition/p4jwq2gh754m0ve/image/small",
+      "matches": []
+    },
+    {
+      "league_name": "FIF",
+      "league_icon": "https://imgts.sportpulseapiz.com/football/competition/kp3glrw7hwqdyjv/image/small",
+      "matches": [
+        {
+          "home_team": {
+            "name": "Brazil",
+            "logo": "https://imgts.sportpulseapiz.com/football/team/9vjxm8gh68er6od/image/small"
+          },
+          "away_team": {
+            "name": "Na Uy",
+            "logo": "https://imgts.sportpulseapiz.com/football/team/8y39mp1h77lmojx/image/small"
+          },
+          "month": "7/6/2026",
+          "time": "3:00:00 AM",
+          "links": [
+            {
+              "name": "Link 1",
+              "url": "https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001783262392-0-0-074c04b62f136d511524e1447a22e1ce",
+              "reffer": "https://soco.buzzscorelinez.com/ajax/chanel/type/5/link/channel1"
+            },
+            {
+              "name": "Link 2",
+              "url": "https://live1.pro2cdnlive.com/live/channel1.m3u8?wsSecret=7cdd3af578602414f331448c213230fd&wsABSTime=1783305592",
+              "reffer": "https://soco.buzzscorelinez.com/ajax/chanel/type/7/link/channel1"
+            }
+          ]
+        },
+        {
+          "home_team": {
+            "name": "Mexico",
+            "logo": "https://imgts.sportpulseapiz.com/football/team/gpxwrxlh43jryk0/image/small"
+          },
+          "away_team": {
+            "name": "Anh",
+            "logo": "https://imgts.sportpulseapiz.com/football/team/z8yomo4hl08q0j6/image/small"
+          },
+          "month": "7/6/2026",
+          "time": "7:00:00 AM",
+          "links": [
+            {
+              "name": "Link 1",
+              "url": "https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001783262393-0-0-6ae30985d3d508eb6bb346b1d4a82890",
+              "reffer": "https://soco.buzzscorelinez.com/ajax/chanel/type/5/link/channel1"
+            },
+            {
+              "name": "Link 2",
+              "url": "https://live1.pro2cdnlive.com/live/channel1.m3u8?wsSecret=011bb7c67a1aed86e817d95613b4d3a7&wsABSTime=1783305593",
+              "reffer": "https://soco.buzzscorelinez.com/ajax/chanel/type/7/link/channel1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "league_name": "KOR D1",
+      "league_icon": "https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small",
+      "matches": [
+        {
+          "home_team": {
+            "name": "Sidama Bunna",
+            "logo": "https://imgts.sportpulseapiz.com/football/team/x7lm7phozxgm2wd/image/small"
+          },
+          "away_team": {
+            "name": "Ethio Electric FC",
+            "logo": "https://imgts.sportpulseapiz.com/football/team/y0or5jh4pppqwzv/image/small"
+          },
+          "month": "7/5/2026",
+          "time": "8:10:00 PM",
+          "links": [
+            {
+              "name": "Link 1",
+              "url": "https://live1.pro2cdnlive.com/live/channel36.m3u8?wsSecret=2de36586feda320cb40806d546e71c08&wsABSTime=1783305593",
+              "reffer": "https://soco.buzzscorelinez.com/ajax/chanel/type/7/link/channel36"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "league_name": "CHA CSL",
+      "league_icon": "https://imgts.sportpulseapiz.com/football/competition/9k82rekh52repzj/image/small",
+      "matches": []
+    }
+  ]
+}
