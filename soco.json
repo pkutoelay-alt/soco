@@ -28,12 +28,12 @@
           "links": [
             {
               "name": "Link 1",
-              "url": "https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001783264735-0-0-1342e807a19b27beef698fcefe828944",
+              "url": "https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001783266671-0-0-325373282bdc5c48df77daf32ad7d2f2",
               "reffer": "https://soco.buzzscorelinez.com/ajax/chanel/type/5/link/channel1"
             },
             {
               "name": "Link 2",
-              "url": "https://live1.pro2cdnlive.com/live/channel1.m3u8?wsSecret=8933ec4f3cfa36608064b504fb605316&wsABSTime=1783307936",
+              "url": "https://live1.pro2cdnlive.com/live/channel1.m3u8?wsSecret=32231d5b6bfd1d5efa53fabf0e8b5ce0&wsABSTime=1783309871",
               "reffer": "https://soco.buzzscorelinez.com/ajax/chanel/type/7/link/channel1"
             }
           ]
@@ -52,12 +52,12 @@
           "links": [
             {
               "name": "Link 1",
-              "url": "https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001783264737-0-0-251dbfd4deefcbaf32dfaf048c79111e",
+              "url": "https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001783266671-0-0-325373282bdc5c48df77daf32ad7d2f2",
               "reffer": "https://soco.buzzscorelinez.com/ajax/chanel/type/5/link/channel1"
             },
             {
               "name": "Link 2",
-              "url": "https://live1.pro2cdnlive.com/live/channel1.m3u8?wsSecret=f1c33f0583cbe1ca0a69d6c7c0d01abf&wsABSTime=1783307937",
+              "url": "https://live1.pro2cdnlive.com/live/channel1.m3u8?wsSecret=32231d5b6bfd1d5efa53fabf0e8b5ce0&wsABSTime=1783309871",
               "reffer": "https://soco.buzzscorelinez.com/ajax/chanel/type/7/link/channel1"
             }
           ]
