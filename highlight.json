@@ -1,6 +1,6 @@
 {
   "source": "https://hoofoot.com/",
-  "scraped_at": "2026-07-14T17:00:22.328Z",
+  "scraped_at": "2026-07-14T21:39:10.743Z",
   "date_filter": {
     "timezone": "Asia/Ho_Chi_Minh",
     "today": "2026-07-15",
@@ -13,8 +13,16 @@
       "2026-07-11"
     ]
   },
-  "count": 2,
+  "count": 3,
   "highlights": [
+    {
+      "title": "France v Spain",
+      "img": "https://th.hoofoot.com/pics/37702.jpg",
+      "url": "https://hoofoot.com/?match=France_v_Spain_2026_07_14",
+      "match_date": "2026-07-14",
+      "embed_url": null,
+      "m3u8": null
+    },
     {
       "title": "Argentina v Switzerland",
       "img": "https://th.hoofoot.com/pics/37701.jpg",
