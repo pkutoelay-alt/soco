@@ -6,78 +6,6 @@
       "matches": [
         {
           "home_team": {
-            "name": "KuPs",
-            "logo": "https://imgts.sportpulseapiz.com/football/team/z318q66hp13qo9j/image/small"
-          },
-          "away_team": {
-            "name": "FC Vardar Skopje",
-            "logo": "https://imgts.sportpulseapiz.com/football/team/kdj2ryoh38yq1zp/image/small"
-          },
-          "month": "7/14/2026",
-          "time": "10:00:00 PM",
-          "links": [
-            {
-              "name": "Link 1",
-              "url": "https://live2.streambylivepulse.com/live/channel1.m3u8",
-              "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/8/link/channel1"
-            },
-            {
-              "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001784040727-0-0-885d07ad3d9403493cea5d98f95bd683",
-              "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel1"
-            }
-          ]
-        },
-        {
-          "home_team": {
-            "name": "FC Saburtalo",
-            "logo": "https://imgts.sportpulseapiz.com/football/team/4wyrn4he915q86p/image/small"
-          },
-          "away_team": {
-            "name": "FC Flora Tallinn",
-            "logo": "https://imgts.sportpulseapiz.com/football/team/kjw2r09holvrz84/image/small"
-          },
-          "month": "7/14/2026",
-          "time": "11:00:00 PM",
-          "links": [
-            {
-              "name": "Link 1",
-              "url": "https://live2.streambylivepulse.com/live/channel15.m3u8",
-              "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/8/link/channel15"
-            },
-            {
-              "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel15.m3u8?auth_key=3000001784040727-0-0-2699a5537bec80f37671004cc36a4d43",
-              "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel15"
-            }
-          ]
-        },
-        {
-          "home_team": {
-            "name": "Inter Club Escaldes",
-            "logo": "https://imgts.sportpulseapiz.com/football/team/vjxm8gh4y4nr6od/image/small"
-          },
-          "away_team": {
-            "name": "Lincoln Red Imps FC",
-            "logo": "https://imgts.sportpulseapiz.com/football/team/y39mp1h5kzpmojx/image/small"
-          },
-          "month": "7/14/2026",
-          "time": "11:00:00 PM",
-          "links": [
-            {
-              "name": "Link 1",
-              "url": "https://live2.streambylivepulse.com/live/channel6.m3u8",
-              "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/8/link/channel6"
-            },
-            {
-              "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel6.m3u8?auth_key=3000001784040727-0-0-63ad847de5bc362993437dbe3d0481db",
-              "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel6"
-            }
-          ]
-        },
-        {
-          "home_team": {
             "name": "Riga FC",
             "logo": "https://imgts.sportpulseapiz.com/football/team/k82rekh96w7repz/image/small"
           },
@@ -95,7 +23,7 @@
             },
             {
               "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel20.m3u8?auth_key=3000001784040727-0-0-54d9fa10ee1091ca4a84800f8db3dc4e",
+              "url": "https://live3.procdnlive.com/livecdn/channel20.m3u8?auth_key=3000001784048742-0-0-edc7ba3bb485c8bc3445593fc1dd8ee0",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel20"
             }
           ]
@@ -119,7 +47,7 @@
             },
             {
               "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel27.m3u8?auth_key=3000001784040727-0-0-7d7a0107f610b7cfc5697b83069759d0",
+              "url": "https://live3.procdnlive.com/livecdn/channel27.m3u8?auth_key=3000001784048742-0-0-0ce025dedc84faa98ba318ca4d693ab6",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel27"
             }
           ]
@@ -143,7 +71,7 @@
             },
             {
               "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel21.m3u8?auth_key=3000001784040727-0-0-7bb689c1ae5767738080e41582462e7b",
+              "url": "https://live3.procdnlive.com/livecdn/channel21.m3u8?auth_key=3000001784048742-0-0-d6b05d8f28b7dc31110e81613eb6b38a",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel21"
             }
           ]
@@ -167,7 +95,7 @@
             },
             {
               "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel13.m3u8?auth_key=3000001784040727-0-0-da199f2a0eb97efa32b38ac24228c9f7",
+              "url": "https://live3.procdnlive.com/livecdn/channel13.m3u8?auth_key=3000001784048742-0-0-759707d759044d29911c3bc156c7860e",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel13"
             }
           ]
@@ -191,7 +119,7 @@
             },
             {
               "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel10.m3u8?auth_key=3000001784040727-0-0-5946da8ebfaafa7c850ae8fd1619e497",
+              "url": "https://live3.procdnlive.com/livecdn/channel10.m3u8?auth_key=3000001784048742-0-0-7bf8bad1e91b699c6c9b6cd441da175e",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel10"
             }
           ]
@@ -215,7 +143,7 @@
             },
             {
               "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel7.m3u8?auth_key=3000001784040728-0-0-af2b59dcfc07e4c9e9c8e9104c1d7e8e",
+              "url": "https://live3.procdnlive.com/livecdn/channel7.m3u8?auth_key=3000001784048742-0-0-0e8c4ff45818062baf94db460758b2ed",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel7"
             }
           ]
@@ -239,8 +167,65 @@
             },
             {
               "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel28.m3u8?auth_key=3000001784040728-0-0-4d4ce2472a1775b2df6e6a317163b063",
+              "url": "https://live3.procdnlive.com/livecdn/channel28.m3u8?auth_key=3000001784048742-0-0-2a53d4afb20d8055e0457f1b695d7cbb",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel28"
+            }
+          ]
+        },
+        {
+          "home_team": {
+            "name": "Atert Bissen",
+            "logo": "https://imgts.sportpulseapiz.com/football/team/zp5rzgh740wq82w/image/small"
+          },
+          "away_team": {
+            "name": "KI Klaksvik",
+            "logo": "https://imgts.sportpulseapiz.com/football/team/965mkyh7j77r1ge/image/small"
+          },
+          "month": "7/16/2026",
+          "time": "1:15:00 AM",
+          "links": [
+            {
+              "name": "Link 1",
+              "url": "https://live1.streambylivepulse.com/live/channel8.m3u8?wsSecret=0ba64b02b6613d4948eea6be8c67408f&wsABSTime=1784091943",
+              "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/7/link/channel8"
+            }
+          ]
+        },
+        {
+          "home_team": {
+            "name": "FK Sutjeska Niksic",
+            "logo": "https://imgts.sportpulseapiz.com/football/team/kdj2ryoh0jdq1zp/image/small"
+          },
+          "away_team": {
+            "name": "FC Kairat",
+            "logo": "https://imgts.sportpulseapiz.com/football/team/9k82rekh734repz/image/small"
+          },
+          "month": "7/16/2026",
+          "time": "2:00:00 AM",
+          "links": [
+            {
+              "name": "Link 1",
+              "url": "https://live1.streambylivepulse.com/live/channel10.m3u8?wsSecret=2ebe9cd7f8cf9105dcb739b5dfd7a2c4&wsABSTime=1784091944",
+              "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/7/link/channel10"
+            }
+          ]
+        },
+        {
+          "home_team": {
+            "name": "Egnatia",
+            "logo": "https://imgts.sportpulseapiz.com/football/team/2y8m4zh37p5ql07/image/small"
+          },
+          "away_team": {
+            "name": "CS Petrocub",
+            "logo": "https://imgts.sportpulseapiz.com/football/team/y0or5jhl7n5qwzv/image/small"
+          },
+          "month": "7/16/2026",
+          "time": "2:00:00 AM",
+          "links": [
+            {
+              "name": "Link 1",
+              "url": "https://live1.streambylivepulse.com/live/channel11.m3u8?wsSecret=bb8ab1fcc88ea2e89458d75e7a7fa509&wsABSTime=1784091944",
+              "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/7/link/channel11"
             }
           ]
         }
@@ -269,7 +254,7 @@
             },
             {
               "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel23.m3u8?auth_key=3000001784040728-0-0-d1715ed8fe87c2dc61f52def0fb15eef",
+              "url": "https://live3.procdnlive.com/livecdn/channel23.m3u8?auth_key=3000001784048743-0-0-29f863da3a2c884d879a28c3f5773574",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel23"
             }
           ]
@@ -288,8 +273,217 @@
           "links": [
             {
               "name": "Link 1",
-              "url": "https://live1.streambylivepulse.com/live/channel12.m3u8?wsSecret=112a69dce1c011c74314f71b0b36d4f7&wsABSTime=1784083928",
+              "url": "https://live1.streambylivepulse.com/live/channel12.m3u8?wsSecret=7d592bab07319eac45e6f57dbbfd469e&wsABSTime=1784091943",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/7/link/channel12"
+            }
+          ]
+        },
+        {
+          "home_team": {
+            "name": "Decic Tuzi",
+            "logo": "https://imgts.sportpulseapiz.com/football/team/4jwq2gh4gnom0ve/image/small"
+          },
+          "away_team": {
+            "name": "FK Liepaja",
+            "logo": "https://imgts.sportpulseapiz.com/football/team/kn54qllhy6dqvy9/image/small"
+          },
+          "month": "7/16/2026",
+          "time": "1:30:00 AM",
+          "links": [
+            {
+              "name": "Link 1",
+              "url": "https://live1.streambylivepulse.com/live/channel9.m3u8?wsSecret=ad4a0af328189fc9c756bf7d1e938e9b&wsABSTime=1784091944",
+              "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/7/link/channel9"
+            }
+          ]
+        },
+        {
+          "home_team": {
+            "name": "FK Yelimay Semey",
+            "logo": "https://imgts.sportpulseapiz.com/football/team/l5ergphnyvor8k0/image/small"
+          },
+          "away_team": {
+            "name": "Alashkert",
+            "logo": "https://imgts.sportpulseapiz.com/football/team/zp5rzgh7z0zq82w/image/small"
+          },
+          "month": "7/16/2026",
+          "time": "10:00:00 PM",
+          "links": [
+            {
+              "name": "Link 1",
+              "url": "https://live1.streambylivepulse.com/live/channel10.m3u8?wsSecret=2ebe9cd7f8cf9105dcb739b5dfd7a2c4&wsABSTime=1784091944",
+              "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/7/link/channel10"
+            }
+          ]
+        },
+        {
+          "home_team": {
+            "name": "FC Astana",
+            "logo": "https://imgts.sportpulseapiz.com/football/team/gy0or5jhpnjqwzv/image/small"
+          },
+          "away_team": {
+            "name": "FC Dinamo City",
+            "logo": "https://imgts.sportpulseapiz.com/football/team/9dn1m1ghz6nmoep/image/small"
+          },
+          "month": "7/16/2026",
+          "time": "10:00:00 PM",
+          "links": [
+            {
+              "name": "Link 1",
+              "url": "https://live1.streambylivepulse.com/live/channel11.m3u8?wsSecret=bb8ab1fcc88ea2e89458d75e7a7fa509&wsABSTime=1784091944",
+              "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/7/link/channel11"
+            }
+          ]
+        },
+        {
+          "home_team": {
+            "name": "Inter Turku",
+            "logo": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4hnwnq86p/image/small"
+          },
+          "away_team": {
+            "name": "Sarajevo",
+            "logo": "https://imgts.sportpulseapiz.com/football/team/gy0or5jhv5lqwzv/image/small"
+          },
+          "month": "7/16/2026",
+          "time": "10:00:00 PM",
+          "links": [
+            {
+              "name": "Link 1",
+              "url": "https://live1.streambylivepulse.com/live/channel12.m3u8?wsSecret=5c7dd3412bcabacd18b4f397beaf6e52&wsABSTime=1784091944",
+              "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/7/link/channel12"
+            }
+          ]
+        },
+        {
+          "home_team": {
+            "name": "Ilves Tampere",
+            "logo": "https://imgts.sportpulseapiz.com/football/team/yl5ergphxonr8k0/image/small"
+          },
+          "away_team": {
+            "name": "FC Differdange 03",
+            "logo": "https://imgts.sportpulseapiz.com/football/team/x7lm7phk5n9m2wd/image/small"
+          },
+          "month": "7/16/2026",
+          "time": "11:00:00 PM",
+          "links": [
+            {
+              "name": "Link 1",
+              "url": "https://live1.streambylivepulse.com/live/channel1.m3u8?wsSecret=924459107c34f8e53cac005f19752abf&wsABSTime=1784091944",
+              "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/7/link/channel1"
+            }
+          ]
+        },
+        {
+          "home_team": {
+            "name": "FC Pyunik",
+            "logo": "https://imgts.sportpulseapiz.com/football/team/8y39mp1h218mojx/image/small"
+          },
+          "away_team": {
+            "name": "Marsaxlokk FC",
+            "logo": "https://imgts.sportpulseapiz.com/football/team/3glrw7hw137qdyj/image/small"
+          },
+          "month": "7/16/2026",
+          "time": "11:00:00 PM",
+          "links": [
+            {
+              "name": "Link 1",
+              "url": "https://live1.streambylivepulse.com/live/channel2.m3u8?wsSecret=8eb91bb8533a49caee567821867b933f&wsABSTime=1784091944",
+              "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/7/link/channel2"
+            }
+          ]
+        },
+        {
+          "home_team": {
+            "name": "Torpedo Kutaisi",
+            "logo": "https://imgts.sportpulseapiz.com/football/team/4wyrn4h8825q86p/image/small"
+          },
+          "away_team": {
+            "name": "Zira FK",
+            "logo": "https://imgts.sportpulseapiz.com/football/team/l5ergphokx6r8k0/image/small"
+          },
+          "month": "7/16/2026",
+          "time": "11:00:00 PM",
+          "links": [
+            {
+              "name": "Link 1",
+              "url": "https://live1.streambylivepulse.com/live/channel3.m3u8?wsSecret=f5efc900efe17d7a8b17b5015484388e&wsABSTime=1784091945",
+              "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/7/link/channel3"
+            }
+          ]
+        },
+        {
+          "home_team": {
+            "name": "St Joseph FC",
+            "logo": "https://imgts.sportpulseapiz.com/football/team/vjxm8ghgdlgr6od/image/small"
+          },
+          "away_team": {
+            "name": "Bohemians",
+            "logo": "https://imgts.sportpulseapiz.com/football/team/kdj2ryoh3eeq1zp/image/small"
+          },
+          "month": "7/16/2026",
+          "time": "11:00:00 PM",
+          "links": [
+            {
+              "name": "Link 1",
+              "url": "https://live1.streambylivepulse.com/live/channel4.m3u8?wsSecret=c0e8f5420fc76de91640cd8d8ada118b&wsABSTime=1784091945",
+              "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/7/link/channel4"
+            }
+          ]
+        },
+        {
+          "home_team": {
+            "name": "Paide Linnameeskond",
+            "logo": "https://imgts.sportpulseapiz.com/football/team/y39mp1h3dzjmojx/image/small"
+          },
+          "away_team": {
+            "name": "Hegelmann",
+            "logo": "https://imgts.sportpulseapiz.com/football/team/jw2r09hnj9zrz84/image/small"
+          },
+          "month": "7/16/2026",
+          "time": "11:00:00 PM",
+          "links": [
+            {
+              "name": "Link 1",
+              "url": "https://live1.streambylivepulse.com/live/channel5.m3u8?wsSecret=d328b168b33307465a28c2ac4d8c7045&wsABSTime=1784091945",
+              "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/7/link/channel5"
+            }
+          ]
+        },
+        {
+          "home_team": {
+            "name": "Rigas FS",
+            "logo": "https://imgts.sportpulseapiz.com/football/team/n54qllhe5xkqvy9/image/small"
+          },
+          "away_team": {
+            "name": "Glentoran FC",
+            "logo": "https://imgts.sportpulseapiz.com/football/team/vl7oqdehw6er510/image/small"
+          },
+          "month": "7/16/2026",
+          "time": "11:30:00 PM",
+          "links": [
+            {
+              "name": "Link 1",
+              "url": "https://live1.streambylivepulse.com/live/channel7.m3u8?wsSecret=788ae93895a790001f82369a1f492842&wsABSTime=1784091945",
+              "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/7/link/channel7"
+            }
+          ]
+        },
+        {
+          "home_team": {
+            "name": "Levadia Tallinn",
+            "logo": "https://imgts.sportpulseapiz.com/football/team/9k82rekh4lvrepz/image/small"
+          },
+          "away_team": {
+            "name": "Caernarfon",
+            "logo": "https://imgts.sportpulseapiz.com/football/team/gx7lm7phe9ym2wd/image/small"
+          },
+          "month": "7/16/2026",
+          "time": "11:30:00 PM",
+          "links": [
+            {
+              "name": "Link 1",
+              "url": "https://live1.streambylivepulse.com/live/channel8.m3u8?wsSecret=a2541f4a5f134e98738f9f506ebae5b9&wsABSTime=1784091946",
+              "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/7/link/channel8"
             }
           ]
         }
@@ -313,13 +507,32 @@
           "links": [
             {
               "name": "Link 1",
-              "url": "https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001784040729-0-0-354c4e9c9ac464c6ea1a0bae3e79569d",
+              "url": "https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001784048744-0-0-49683aa47d0a900fe773a572ba8da512",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel1"
             },
             {
               "name": "Link 2",
-              "url": "https://live1.streambylivepulse.com/live/channel1.m3u8?wsSecret=0605d9ecb8232a19dc72d94a2f78fd36&wsABSTime=1784083929",
+              "url": "https://live1.streambylivepulse.com/live/channel1.m3u8?wsSecret=a51cbcecb853c533c1ce00b0adfb66c6&wsABSTime=1784091945",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/7/link/channel1"
+            }
+          ]
+        },
+        {
+          "home_team": {
+            "name": "Anh",
+            "logo": "https://imgts.sportpulseapiz.com/football/team/z8yomo4hl08q0j6/image/small"
+          },
+          "away_team": {
+            "name": "Argentina",
+            "logo": "https://imgts.sportpulseapiz.com/football/team/kdj2ryoh868q1zp/image/small"
+          },
+          "month": "7/16/2026",
+          "time": "2:00:00 AM",
+          "links": [
+            {
+              "name": "Link 1",
+              "url": "https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001784048746-0-0-114168cd1d023dc7b0c7158a160eb1a0",
+              "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel1"
             }
           ]
         }
