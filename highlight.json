@@ -1,28 +1,43 @@
 {
   "source": "https://hoofoot.com/",
-  "scraped_at": "2026-07-05T15:20:00.294Z",
+  "scraped_at": "2026-07-14T15:41:45.330Z",
   "date_filter": {
     "timezone": "Asia/Ho_Chi_Minh",
-    "today": "2026-07-05",
-    "yesterday": "2026-07-04"
+    "today": "2026-07-14",
+    "recent_days": 4,
+    "dates": [
+      "2026-07-14",
+      "2026-07-13",
+      "2026-07-12",
+      "2026-07-11",
+      "2026-07-10"
+    ]
   },
-  "count": 2,
+  "count": 3,
   "highlights": [
     {
-      "title": "Paraguay v France",
-      "img": "https://th.hoofoot.com/pics/37691.jpg",
-      "url": "https://hoofoot.com/?match=Paraguay_v_France_2026_07_04",
-      "match_date": "2026-07-04",
-      "embed_url": "https://hoohfooha.vibedailyhighlights.com/embed/KcvDRkRlacD4p",
-      "m3u8": "https://hls86.flashframenetwork.com/upfiles/source/hls/51/318193/manifest/0.m3u8?token=RzdHVjJjNlVZSWFXbkFrN0tQbmxhb2VRaVVXcDJpaEg0SGxrR3RBWE9jRT06VXBGaWxlcy8yMDI2LzcvNS81MS8zMTgxOTMvMC5tM3U4OiUyRiUyRmhsczg2LmZsYXNoZnJhbWVuZXR3b3JrLmNvbSUyRjo2MzkxODg2NTE1NjQ0MDc0MTU=&keypair=WFJEZ0NVQ3Jub2M2bkJWenB0dG5qVHJrQVNnTlA0QXI3Z3FCKzcybk8rOD06VXBGaWxlcy8yMDI2LzcvNS81MS8zMTgxOTMvOiUyRiUyRmhsczg2LmZsYXNoZnJhbWVuZXR3b3JrLmNvbSUyRjo2MzkxODg2NTE1NjQ0MDc0MTU="
+      "title": "Argentina v Switzerland",
+      "img": "https://th.hoofoot.com/pics/37701.jpg",
+      "url": "https://hoofoot.com/?match=Argentina_v_Switzerland_2026_07_11",
+      "match_date": "2026-07-11",
+      "embed_url": null,
+      "m3u8": null
     },
     {
-      "title": "Canada v Morocco",
-      "img": "https://th.hoofoot.com/pics/37690.jpg",
-      "url": "https://hoofoot.com/?match=Canada_v_Morocco_2026_07_04",
-      "match_date": "2026-07-04",
-      "embed_url": "https://hoohfooha.vibedailyhighlights.com/embed/gRgVgMom75j5F",
-      "m3u8": "https://hls86.flashframenetwork.com/upfiles/source/hls/51/318188/manifest/0.m3u8?token=dnlwRHJsR0JmaVFNYXR3L0VMazh3cExpWTA0ZXByaDVYb3BFU085Sy8vcz06VXBGaWxlcy8yMDI2LzcvNC81MS8zMTgxODgvMC5tM3U4OiUyRiUyRmhsczg2LmZsYXNoZnJhbWVuZXR3b3JrLmNvbSUyRjo2MzkxODg2NTE3OTA1MDgxMjI=&keypair=cU1DeCtQZDdTWUp6YzR2OFJRNmZXam9Ob1k5RzYyOEpiQis4dUl5aGZmTT06VXBGaWxlcy8yMDI2LzcvNC81MS8zMTgxODgvOiUyRiUyRmhsczg2LmZsYXNoZnJhbWVuZXR3b3JrLmNvbSUyRjo2MzkxODg2NTE3OTA1MDgxMjI="
+      "title": "Norway v England",
+      "img": "https://th.hoofoot.com/pics/37700.jpg",
+      "url": "https://hoofoot.com/?match=Norway_v_England_2026_07_11",
+      "match_date": "2026-07-11",
+      "embed_url": null,
+      "m3u8": null
+    },
+    {
+      "title": "Spain v Belgium",
+      "img": "https://th.hoofoot.com/pics/37699.jpg",
+      "url": "https://hoofoot.com/?match=Spain_v_Belgium_2026_07_10",
+      "match_date": "2026-07-10",
+      "embed_url": null,
+      "m3u8": null
     }
   ]
 }
