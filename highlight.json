@@ -1,19 +1,19 @@
 {
   "source": "https://hoofoot.com/",
-  "scraped_at": "2026-07-14T15:41:45.330Z",
+  "scraped_at": "2026-07-14T17:00:22.328Z",
   "date_filter": {
     "timezone": "Asia/Ho_Chi_Minh",
-    "today": "2026-07-14",
+    "today": "2026-07-15",
     "recent_days": 4,
     "dates": [
+      "2026-07-15",
       "2026-07-14",
       "2026-07-13",
       "2026-07-12",
-      "2026-07-11",
-      "2026-07-10"
+      "2026-07-11"
     ]
   },
-  "count": 3,
+  "count": 2,
   "highlights": [
     {
       "title": "Argentina v Switzerland",
@@ -28,14 +28,6 @@
       "img": "https://th.hoofoot.com/pics/37700.jpg",
       "url": "https://hoofoot.com/?match=Norway_v_England_2026_07_11",
       "match_date": "2026-07-11",
-      "embed_url": null,
-      "m3u8": null
-    },
-    {
-      "title": "Spain v Belgium",
-      "img": "https://th.hoofoot.com/pics/37699.jpg",
-      "url": "https://hoofoot.com/?match=Spain_v_Belgium_2026_07_10",
-      "match_date": "2026-07-10",
       "embed_url": null,
       "m3u8": null
     }
