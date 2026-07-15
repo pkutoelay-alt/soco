@@ -3,56 +3,7 @@
     {
       "league_name": "UEFA CL",
       "league_icon": "https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small",
-      "matches": [
-        {
-          "home_team": {
-            "name": "FK Sutjeska Niksic",
-            "logo": "https://imgts.sportpulseapiz.com/football/team/kdj2ryoh0jdq1zp/image/small"
-          },
-          "away_team": {
-            "name": "FC Kairat",
-            "logo": "https://imgts.sportpulseapiz.com/football/team/9k82rekh734repz/image/small"
-          },
-          "month": "7/16/2026",
-          "time": "2:00:00 AM",
-          "links": [
-            {
-              "name": "Link 1",
-              "url": "https://live2.streambylivepulse.com/live/channel20.m3u8",
-              "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/8/link/channel20"
-            },
-            {
-              "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel20.m3u8?auth_key=3000001784147041-0-0-3368cded84fbd10f79d3d3712ed4c714",
-              "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel20"
-            }
-          ]
-        },
-        {
-          "home_team": {
-            "name": "Egnatia",
-            "logo": "https://imgts.sportpulseapiz.com/football/team/2y8m4zh37p5ql07/image/small"
-          },
-          "away_team": {
-            "name": "CS Petrocub",
-            "logo": "https://imgts.sportpulseapiz.com/football/team/y0or5jhl7n5qwzv/image/small"
-          },
-          "month": "7/16/2026",
-          "time": "2:00:00 AM",
-          "links": [
-            {
-              "name": "Link 1",
-              "url": "https://live2.streambylivepulse.com/live/channel21.m3u8",
-              "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/8/link/channel21"
-            },
-            {
-              "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel21.m3u8?auth_key=3000001784147041-0-0-2a6898abab319c746469e0f9a6801c70",
-              "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel21"
-            }
-          ]
-        }
-      ]
+      "matches": []
     },
     {
       "league_name": "UEFA ECL",
@@ -77,7 +28,7 @@
             },
             {
               "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel12.m3u8?auth_key=3000001784147041-0-0-83ab6dbb272f87175c91c9fe54267681",
+              "url": "https://live3.procdnlive.com/livecdn/channel12.m3u8?auth_key=3000001784148693-0-0-12bbfe780fb246eaeb4107c02e9a0990",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel12"
             }
           ]
@@ -101,7 +52,7 @@
             },
             {
               "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel15.m3u8?auth_key=3000001784147041-0-0-7d880a844d06a518e35fadb18cdcd320",
+              "url": "https://live3.procdnlive.com/livecdn/channel15.m3u8?auth_key=3000001784148693-0-0-3662d96d016ef6786ed91cc1ec057254",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel15"
             }
           ]
@@ -125,7 +76,7 @@
             },
             {
               "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel5.m3u8?auth_key=3000001784147041-0-0-3d0b36a2ab5149903177c5daa52e20dd",
+              "url": "https://live3.procdnlive.com/livecdn/channel5.m3u8?auth_key=3000001784148693-0-0-a5e8503cc607524d1a51fdb1ca314b59",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel5"
             }
           ]
@@ -149,7 +100,7 @@
             },
             {
               "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel11.m3u8?auth_key=3000001784147041-0-0-bf119233d0b0f9d2e9f0351b958ff88f",
+              "url": "https://live3.procdnlive.com/livecdn/channel11.m3u8?auth_key=3000001784148693-0-0-f3106170a3dc6a3115e6929365156011",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel11"
             }
           ]
@@ -173,7 +124,7 @@
             },
             {
               "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel22.m3u8?auth_key=3000001784147041-0-0-39792e742332f07567031ec8e75d2560",
+              "url": "https://live3.procdnlive.com/livecdn/channel22.m3u8?auth_key=3000001784148693-0-0-e4bf57005654c48d325c0e7b1ea9bc5a",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel22"
             }
           ]
@@ -197,7 +148,7 @@
             },
             {
               "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel16.m3u8?auth_key=3000001784147041-0-0-705bf4bedf4df9036667ed074c75b89b",
+              "url": "https://live3.procdnlive.com/livecdn/channel16.m3u8?auth_key=3000001784148693-0-0-cc83e0ed14933ea8c132b682f03a177b",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel16"
             }
           ]
@@ -221,7 +172,7 @@
             },
             {
               "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel14.m3u8?auth_key=3000001784147041-0-0-7a907ba79e560d0e4a6425498b1299d4",
+              "url": "https://live3.procdnlive.com/livecdn/channel14.m3u8?auth_key=3000001784148693-0-0-9a3860b30053f161eeb35a24958986a6",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel14"
             }
           ]
@@ -245,7 +196,7 @@
             },
             {
               "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel8.m3u8?auth_key=3000001784147041-0-0-aecd0c15d8a260ad2dd95c251e5653a0",
+              "url": "https://live3.procdnlive.com/livecdn/channel8.m3u8?auth_key=3000001784148693-0-0-beb64e54747c443f08e7faaf7d8c6329",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel8"
             }
           ]
@@ -269,7 +220,7 @@
             },
             {
               "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel27.m3u8?auth_key=3000001784147041-0-0-6b9b88eebdd645b50eb2222e40980ffb",
+              "url": "https://live3.procdnlive.com/livecdn/channel27.m3u8?auth_key=3000001784148693-0-0-15f5663875c2f300c690080a7487a39a",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel27"
             }
           ]
@@ -293,7 +244,7 @@
             },
             {
               "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel19.m3u8?auth_key=3000001784147041-0-0-ed0409f4e6a48fda175db1aa59257fa7",
+              "url": "https://live3.procdnlive.com/livecdn/channel19.m3u8?auth_key=3000001784148693-0-0-2f6020e6fad44dd491cde431e4f98fb5",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel19"
             }
           ]
@@ -317,7 +268,7 @@
             },
             {
               "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel18.m3u8?auth_key=3000001784147042-0-0-330efba74aaf111a58a68d22d24b4ad4",
+              "url": "https://live3.procdnlive.com/livecdn/channel18.m3u8?auth_key=3000001784148693-0-0-b0ec9905af859542b0f4b1e527b983e3",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel18"
             }
           ]
@@ -341,7 +292,7 @@
             },
             {
               "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel28.m3u8?auth_key=3000001784147041-0-0-19e370242d5307ec69ae61062da61892",
+              "url": "https://live3.procdnlive.com/livecdn/channel28.m3u8?auth_key=3000001784148693-0-0-64038483b5904d8c43ec646f2d2d86ac",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel28"
             }
           ]
@@ -365,7 +316,7 @@
             },
             {
               "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel7.m3u8?auth_key=3000001784147041-0-0-391df8ce96535037a7e98177fb8bc2cd",
+              "url": "https://live3.procdnlive.com/livecdn/channel7.m3u8?auth_key=3000001784148693-0-0-7b9e7316a5f716a4fa288001c57ef039",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel7"
             }
           ]
@@ -389,7 +340,7 @@
             },
             {
               "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel9.m3u8?auth_key=3000001784147041-0-0-a88f42e6b2baad15fa8068d7c01e2029",
+              "url": "https://live3.procdnlive.com/livecdn/channel9.m3u8?auth_key=3000001784148693-0-0-aec384ce8d8483fdf6fda2bf5c6785d3",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel9"
             }
           ]
@@ -413,7 +364,7 @@
             },
             {
               "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel23.m3u8?auth_key=3000001784147042-0-0-ff27a38aef9b837c441e95ee7ba1550e",
+              "url": "https://live3.procdnlive.com/livecdn/channel23.m3u8?auth_key=3000001784148693-0-0-09d3db0a0e18fd4ee7515aac6f31542a",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel23"
             }
           ]
@@ -437,7 +388,7 @@
             },
             {
               "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel13.m3u8?auth_key=3000001784147042-0-0-f79a7af6a8e411ceb3307c57ca352a3d",
+              "url": "https://live3.procdnlive.com/livecdn/channel13.m3u8?auth_key=3000001784148693-0-0-15b3f3d4078ef7bcd094c1bc939bd45a",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel13"
             }
           ]
@@ -461,7 +412,7 @@
             },
             {
               "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel10.m3u8?auth_key=3000001784147042-0-0-bf2cb20cfc82477de58f2fc01cbcb226",
+              "url": "https://live3.procdnlive.com/livecdn/channel10.m3u8?auth_key=3000001784148694-0-0-2879de05c5d0ba4df5aa2a74b9178df0",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel10"
             }
           ]
@@ -485,7 +436,7 @@
             },
             {
               "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel21.m3u8?auth_key=3000001784147042-0-0-79d794c3163b4f4b5b984244736c9be1",
+              "url": "https://live3.procdnlive.com/livecdn/channel21.m3u8?auth_key=3000001784148694-0-0-76f7e022a1dc187bfbdc320b27f718cb",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel21"
             }
           ]
@@ -509,7 +460,7 @@
             },
             {
               "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel17.m3u8?auth_key=3000001784147042-0-0-85d56ec10e485da2b90b23d05cc638df",
+              "url": "https://live3.procdnlive.com/livecdn/channel17.m3u8?auth_key=3000001784148694-0-0-0c8c274b110598448bd2d2df676e3c2a",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel17"
             }
           ]
@@ -533,7 +484,7 @@
             },
             {
               "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel20.m3u8?auth_key=3000001784147042-0-0-b4d029773970e4f8944b95a20b8289cf",
+              "url": "https://live3.procdnlive.com/livecdn/channel20.m3u8?auth_key=3000001784148694-0-0-588e76c4ab13c183eb6f1d364c4ab56a",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel20"
             }
           ]
@@ -557,7 +508,7 @@
             },
             {
               "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel22.m3u8?auth_key=3000001784147042-0-0-8cd5a59c0322f10c08b7105fc7e0afd8",
+              "url": "https://live3.procdnlive.com/livecdn/channel22.m3u8?auth_key=3000001784148694-0-0-b076f13cb0f6fca87b6144d1897fba38",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel22"
             }
           ]
@@ -581,7 +532,7 @@
             },
             {
               "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel14.m3u8?auth_key=3000001784147042-0-0-0f7e98cd5d62a440cbf620e2efd07951",
+              "url": "https://live3.procdnlive.com/livecdn/channel14.m3u8?auth_key=3000001784148694-0-0-2eff54d079445dc48dd0d5e6135a8b77",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel14"
             }
           ]
@@ -605,7 +556,7 @@
             },
             {
               "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel16.m3u8?auth_key=3000001784147042-0-0-c02d6ec8b12d8b606b439385e8b38a70",
+              "url": "https://live3.procdnlive.com/livecdn/channel16.m3u8?auth_key=3000001784148694-0-0-5979541ad6fdfb524d21b5abc33b1385",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel16"
             }
           ]
@@ -630,12 +581,12 @@
           "links": [
             {
               "name": "Link 1",
-              "url": "https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001784147042-0-0-acf93b57ae374f7c79a00fcb5cbda373",
+              "url": "https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001784148694-0-0-f27898b2b3d66db8e4f4702a7aaa233e",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel1"
             },
             {
               "name": "Link 2",
-              "url": "https://live1.streambylivepulse.com/live/channel1.m3u8?wsSecret=e307bca9503c5378e7aa49d080c453e5&wsABSTime=1784190243",
+              "url": "https://live1.streambylivepulse.com/live/channel1.m3u8?wsSecret=0717368d6543113e4efabc5d596aa31c&wsABSTime=1784191894",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/7/link/channel1"
             }
           ]
@@ -665,7 +616,7 @@
           "links": [
             {
               "name": "Link 1",
-              "url": "https://live1.streambylivepulse.com/live/channel11.m3u8?wsSecret=96806d33a7e821792d7f9fc4b4730131&wsABSTime=1784190242",
+              "url": "https://live1.streambylivepulse.com/live/channel11.m3u8?wsSecret=dabaefd0193e68c378b0b4340b6b4c91&wsABSTime=1784191894",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/7/link/channel11"
             }
           ]
@@ -684,7 +635,7 @@
           "links": [
             {
               "name": "Link 1",
-              "url": "https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001784147042-0-0-acf93b57ae374f7c79a00fcb5cbda373",
+              "url": "https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001784148694-0-0-f27898b2b3d66db8e4f4702a7aaa233e",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel1"
             }
           ]
@@ -703,7 +654,7 @@
           "links": [
             {
               "name": "Link 1",
-              "url": "https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001784147042-0-0-acf93b57ae374f7c79a00fcb5cbda373",
+              "url": "https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001784148694-0-0-f27898b2b3d66db8e4f4702a7aaa233e",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel1"
             }
           ]
@@ -722,7 +673,7 @@
           "links": [
             {
               "name": "Link 1",
-              "url": "https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001784147042-0-0-acf93b57ae374f7c79a00fcb5cbda373",
+              "url": "https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001784148694-0-0-f27898b2b3d66db8e4f4702a7aaa233e",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel1"
             }
           ]
