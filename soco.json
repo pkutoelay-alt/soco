@@ -8,56 +8,7 @@
     {
       "league_name": "UEFA ECL",
       "league_icon": "https://imgts.sportpulseapiz.com/football/competition/p4jwq2gh754m0ve/image/small",
-      "matches": [
-        {
-          "home_team": {
-            "name": "Sileks",
-            "logo": "https://imgts.sportpulseapiz.com/football/team/1l4rjnh63d7m7vx/image/small"
-          },
-          "away_team": {
-            "name": "Dinamo Minsk",
-            "logo": "https://imgts.sportpulseapiz.com/football/team/p3glrw7h2e6qdyj/image/small"
-          },
-          "month": "7/17/2026",
-          "time": "1:00:00 AM",
-          "links": [
-            {
-              "name": "Link 1",
-              "url": "https://live2.streambylivepulse.com/live/channel20.m3u8",
-              "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/8/link/channel20"
-            },
-            {
-              "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel20.m3u8?auth_key=3000001784234656-0-0-f851c234c97a434189c37a379cccf2d8",
-              "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel20"
-            }
-          ]
-        },
-        {
-          "home_team": {
-            "name": "SS Virtus",
-            "logo": "https://imgts.sportpulseapiz.com/football/team/n54qllh2n4gqvy9/image/small"
-          },
-          "away_team": {
-            "name": "Dila Gori",
-            "logo": "https://imgts.sportpulseapiz.com/football/team/kn54qllhgynqvy9/image/small"
-          },
-          "month": "7/17/2026",
-          "time": "2:00:00 AM",
-          "links": [
-            {
-              "name": "Link 1",
-              "url": "https://live2.streambylivepulse.com/live/channel16.m3u8",
-              "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/8/link/channel16"
-            },
-            {
-              "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel16.m3u8?auth_key=3000001784234656-0-0-593804ab60d1d1b539bb4f5dc99eb878",
-              "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel16"
-            }
-          ]
-        }
-      ]
+      "matches": []
     },
     {
       "league_name": "FIF",
@@ -87,7 +38,7 @@
           "links": [
             {
               "name": "Link 1",
-              "url": "https://live1.streambylivepulse.com/live/channel11.m3u8?wsSecret=ff286b68ea91f0aac145f48e1e419e44&wsABSTime=1784277856",
+              "url": "https://live1.streambylivepulse.com/live/channel11.m3u8?wsSecret=1975e7dced03b59f78520c14c48beb56&wsABSTime=1784278861",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/7/link/channel11"
             }
           ]
@@ -106,7 +57,7 @@
           "links": [
             {
               "name": "Link 1",
-              "url": "https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001784234656-0-0-c087c7d769c6f412f446a2438d6565ca",
+              "url": "https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001784235661-0-0-8ce310f367319adcdb7a29cabb49d86c",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel1"
             }
           ]
@@ -125,7 +76,7 @@
           "links": [
             {
               "name": "Link 1",
-              "url": "https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001784234656-0-0-c087c7d769c6f412f446a2438d6565ca",
+              "url": "https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001784235661-0-0-8ce310f367319adcdb7a29cabb49d86c",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel1"
             }
           ]
@@ -144,7 +95,7 @@
           "links": [
             {
               "name": "Link 1",
-              "url": "https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001784234656-0-0-c087c7d769c6f412f446a2438d6565ca",
+              "url": "https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001784235661-0-0-8ce310f367319adcdb7a29cabb49d86c",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel1"
             }
           ]
@@ -163,7 +114,7 @@
           "links": [
             {
               "name": "Link 1",
-              "url": "https://live1.streambylivepulse.com/live/channel24.m3u8?wsSecret=209418922c503050756a56c39aa4581b&wsABSTime=1784277856",
+              "url": "https://live1.streambylivepulse.com/live/channel24.m3u8?wsSecret=5a112703633c88b2919756e56596cab1&wsABSTime=1784278861",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/7/link/channel24"
             }
           ]
@@ -182,7 +133,7 @@
           "links": [
             {
               "name": "Link 1",
-              "url": "https://live1.streambylivepulse.com/live/channel5.m3u8?wsSecret=0b49d27c143fd2c55131c8516b33ea4c&wsABSTime=1784277856",
+              "url": "https://live1.streambylivepulse.com/live/channel5.m3u8?wsSecret=ec25b1019b2be8648fd0050ab46cb665&wsABSTime=1784278861",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/7/link/channel5"
             }
           ]
@@ -201,7 +152,7 @@
           "links": [
             {
               "name": "Link 1",
-              "url": "https://live1.streambylivepulse.com/live/channel6.m3u8?wsSecret=e700801e5d278d9adf6065897e2989ea&wsABSTime=1784277856",
+              "url": "https://live1.streambylivepulse.com/live/channel6.m3u8?wsSecret=b8019f86a20cef8b92e353df794e5bd6&wsABSTime=1784278861",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/7/link/channel6"
             }
           ]
@@ -220,7 +171,7 @@
           "links": [
             {
               "name": "Link 1",
-              "url": "https://live1.streambylivepulse.com/live/channel11.m3u8?wsSecret=ff286b68ea91f0aac145f48e1e419e44&wsABSTime=1784277856",
+              "url": "https://live1.streambylivepulse.com/live/channel11.m3u8?wsSecret=1975e7dced03b59f78520c14c48beb56&wsABSTime=1784278861",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/7/link/channel11"
             }
           ]
