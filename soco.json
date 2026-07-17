@@ -26,54 +26,6 @@
       "matches": [
         {
           "home_team": {
-            "name": "Beijing Guoan",
-            "logo": "https://imgts.sportpulseapiz.com/football/team/jednm9whlxkryox/image/small"
-          },
-          "away_team": {
-            "name": "Liaoning Tieren",
-            "logo": "https://imgts.sportpulseapiz.com/football/team/y0or5jh4znyqwzv/image/small"
-          },
-          "month": "7/17/2026",
-          "time": "6:35:00 PM",
-          "links": [
-            {
-              "name": "Link 1",
-              "url": "https://live2.streambylivepulse.com/live/channel1.m3u8",
-              "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/8/link/channel1"
-            },
-            {
-              "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001784293269-0-0-1a5dcf28aeb67c0740fff373ce3e4dd9",
-              "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel1"
-            }
-          ]
-        },
-        {
-          "home_team": {
-            "name": "Henan FC",
-            "logo": "https://imgts.sportpulseapiz.com/football/team/8y39mp1hnedmojx/image/small"
-          },
-          "away_team": {
-            "name": "Qingdao Manatee",
-            "logo": "https://imgts.sportpulseapiz.com/football/team/9dn1m1ghd9pmoep/image/small"
-          },
-          "month": "7/17/2026",
-          "time": "6:35:00 PM",
-          "links": [
-            {
-              "name": "Link 1",
-              "url": "https://live2.streambylivepulse.com/live/channel15.m3u8",
-              "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/8/link/channel15"
-            },
-            {
-              "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel15.m3u8?auth_key=3000001784293269-0-0-577ea8b853a16c4663686ba79ee9ed09",
-              "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel15"
-            }
-          ]
-        },
-        {
-          "home_team": {
             "name": "Yunnan Yukun",
             "logo": "https://imgts.sportpulseapiz.com/football/team/3glrw7hz1ooqdyj/image/small"
           },
@@ -91,7 +43,7 @@
             },
             {
               "name": "Link 2",
-              "url": "https://live3.procdnlive.com/livecdn/channel6.m3u8?auth_key=3000001784293269-0-0-871344efab575ca19e34fd2f28277360",
+              "url": "https://live3.procdnlive.com/livecdn/channel6.m3u8?auth_key=3000001784295619-0-0-eb6cd2e9b1c0ba36cb00fe91c60d019c",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/5/link/channel6"
             }
           ]
@@ -110,7 +62,7 @@
           "links": [
             {
               "name": "Link 1",
-              "url": "https://live1.streambylivepulse.com/live/channel24.m3u8?wsSecret=ac2796eaeb91f01a8e230b896e1fa5ea&wsABSTime=1784336468",
+              "url": "https://live1.streambylivepulse.com/live/channel24.m3u8?wsSecret=4856b8e8f544aa78633e55a6ea420433&wsABSTime=1784338819",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/7/link/channel24"
             }
           ]
@@ -129,7 +81,7 @@
           "links": [
             {
               "name": "Link 1",
-              "url": "https://live1.streambylivepulse.com/live/channel5.m3u8?wsSecret=c79fc1e4e5fe57d066b22b115ed62cd6&wsABSTime=1784336468",
+              "url": "https://live1.streambylivepulse.com/live/channel5.m3u8?wsSecret=a7fd1a6b51cac51bcefc46b2d78e5167&wsABSTime=1784338819",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/7/link/channel5"
             }
           ]
@@ -148,7 +100,7 @@
           "links": [
             {
               "name": "Link 1",
-              "url": "https://live1.streambylivepulse.com/live/channel6.m3u8?wsSecret=73a6c8a77c275d5c10f0d2aec6bf2be9&wsABSTime=1784336468",
+              "url": "https://live1.streambylivepulse.com/live/channel6.m3u8?wsSecret=4e67432fa2fc9dc4ecd2675bca0b11e9&wsABSTime=1784338819",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/7/link/channel6"
             }
           ]
@@ -167,7 +119,7 @@
           "links": [
             {
               "name": "Link 1",
-              "url": "https://live1.streambylivepulse.com/live/channel11.m3u8?wsSecret=567c2a9dfa41921ca7ebe840b262569d&wsABSTime=1784336468",
+              "url": "https://live1.streambylivepulse.com/live/channel11.m3u8?wsSecret=1f55b3e6fcd41eeb807e7abccef1c99a&wsABSTime=1784338819",
               "reffer": "https://soco.livebytexscorez.com/ajax/chanel/type/7/link/channel11"
             }
           ]
